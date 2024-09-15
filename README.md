@@ -1,5 +1,5 @@
 # AllAboutEKS-clusterAndSetup
-This repository is dedicated to how you can setup an eks cluster with ALB with EBS volume and many more.
+This repository is dedicated to how you can setup an eks cluster with ALB.
 
 
 To Create cluster with oidc provider attached use the first script (clusterAndSetup,sh).
