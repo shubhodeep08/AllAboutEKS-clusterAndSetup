@@ -1,5 +1,5 @@
 # AllAboutEKS-clusterAndSetup
-This repository is dedicated to how you can setup an eks cluster with ALB.
+This repository is dedicated to how you can setup an eks cluster with ALB and EBS and alot more.
 
 
 To Create cluster with oidc provider attached use the first script (clusterAndSetup,sh).
@@ -15,3 +15,6 @@ After creating and applying the ingress.yaml file you just have created for you 
 This shell script will ask you some questions related to your cluster,zones,regions and etc. Kindly fill correctly otherwise the script wont work.
 
 Now you can access you application using ALB service. just search loadbalancer on the searchbar of aws console. After that click on it and it will show you a application load balancer, just click on it, copy the dns url and paste it on your favourate browser. 
+
+
+This repo is still upgrading, so keep an eye on it.
